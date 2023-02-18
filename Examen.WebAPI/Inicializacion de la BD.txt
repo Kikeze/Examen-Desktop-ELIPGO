@@ -1,0 +1,6 @@
+-- La cadena de conexion se encuentra en el archivo appsettings.Development.json
+-- Eliminar la carpeta Migrations del proyecto
+-- Ejecutar: Add-Migration "DBStartup"
+-- Ejecutar: Update-Database
+
+
